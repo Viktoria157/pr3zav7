@@ -1,0 +1,6 @@
+D:\HP\Documents\latex\Laboratora2\Laboratorna2\MASUVU\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\HP\Documents\latex\Laboratora2\Laboratorna2\MASUVU\Project2\x64\Debug\Project2.MyForm.resources
+D:\HP\Documents\latex\Laboratora2\Laboratorna2\MASUVU\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Практичні 2см\Практ3 зав7\MASUVU\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Практичні 2см\Практ3 зав7\MASUVU\Project2\x64\Debug\Project2.MyForm.resources
+C:\Users\Admin\OneDrive\Desktop\Практичні 2см\Практ3 зав7\MASUVU\Project2\x64\Debug\Project2.vcxproj.GenerateResource.cache
